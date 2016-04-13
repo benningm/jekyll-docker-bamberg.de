@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker Bamberg</title>
+    <description>Meet other developers and ops engineers using Docker.
+</description>
+    <link>http://docker-bamberg.de/</link>
+    <atom:link href="http://docker-bamberg.de/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Apr 2016 20:31:36 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2016 20:31:36 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Docker Meetup April</title>
+        <description>&lt;p&gt;Next Docker Bamberg meetup:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+Donnerstag, 28. April 2016
+18:15 bis 19:45
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Location:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+Universität Bamberg, Fakultät WIAI
+An der Weberei 5 , 96047 Bamberg
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;we-are-happy-to-announce-our-fourth-docker-meetup&quot;&gt;We are happy to announce our fourth Docker Meetup!&lt;/h1&gt;
+
+&lt;p&gt;The following agenda is still preliminary - if you want to give a talk/demo or
+know someone who would be willing to present something, let us know!&lt;/p&gt;
+
+&lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;How does Docker simplify Web Development + Demo&lt;/strong&gt;
+by Mathias Renner, Master Student of Information Systems&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Test Driven Infrastructure mit Cucumber, Puppet und Docker&lt;/strong&gt;
+by Markus Benning&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What’s new with Docker on Mac + Demo&lt;/strong&gt;
+by Govinda Fichtner, Paessler AG, Nürnberg&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What’s new with Docker on Windows + Demo&lt;/strong&gt;
+by Stefan Scherer, SEAL Systems AG&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, let’s grow our Docker knowledge together by&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;presenting &amp;amp; discussing Docker use cases&lt;/li&gt;
+  &lt;li&gt;sharing our best tips and tricks&lt;/li&gt;
+  &lt;li&gt;discussing the latest developments in the Docker ecosystem &amp;amp; community&lt;/li&gt;
+  &lt;li&gt;introducing newbies to Docker awesomeness&lt;/li&gt;
+  &lt;li&gt;making new friends&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Language will be English if requested, otherwise German.&lt;/p&gt;
+
+&lt;p&gt;Room: WE5/01.006 - See our short video of how to find us.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Apr 2016 16:40:34 +0200</pubDate>
+        <link>http://docker-bamberg.de/docker/bamberg/meetup/2016/04/13/docker-meetup-april.html</link>
+        <guid isPermaLink="true">http://docker-bamberg.de/docker/bamberg/meetup/2016/04/13/docker-meetup-april.html</guid>
+        
+        
+        <category>docker</category>
+        
+        <category>bamberg</category>
+        
+        <category>meetup</category>
+        
+      </item>
+    
+  </channel>
+</rss>
